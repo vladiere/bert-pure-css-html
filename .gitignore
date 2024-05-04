@@ -1,6 +1,6 @@
-/node_modules
-/dist
-/.parcel-cache
+node_modules/
+dist/
+.parcel-cache/
 
 # OS generated files
 .DS_Store # macOS folder settings
